@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: Kancharla Narmadha</h3>
-<h3>Register Number:212222110016/h3>
+<h3>Name: B.Allen Steve Bernard</h3>
+<h3>Register Number:212221220004</h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
